@@ -1,0 +1,7 @@
+﻿[*.{cs,vb}]
+
+# IDE0044: Добавить модификатор только для чтения
+dotnet_diagnostic.IDE0044.severity = silent
+
+# IDE0060: Удалите неиспользуемый параметр
+dotnet_diagnostic.IDE0060.severity = silent
